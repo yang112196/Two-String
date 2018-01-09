@@ -24,4 +24,5 @@ world
 Sample Output
 
 YES
+
 NO
